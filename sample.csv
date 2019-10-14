@@ -1,22 +1,14 @@
-;name;description;price;availability_date;slug;stock_total;category
-;Ruby on Rails Bag;Animi officia aut amet molestiae atque excepturi. Placeat est cum occaecati molestiae quia. Ut soluta ipsum doloremque perferendis eligendi voluptas voluptatum.;22,99;2017-12-04T14:55:22.913Z;ruby-on-rails-bag;15;Bags
-;Spree Bag;Rerum quaerat autem non nihil quo laborum aut hic. Iure adipisci neque eum qui dolor. Velit sed molestias nostrum et dolore. Amet sed repellendus quod et ad.;25,99;2017-12-04T14:55:22.913Z;spree-bag;5;Bags
-;Spree Tote;Consequuntur quibusdam repellendus quia non. Iste et pariatur nulla fugit. In ipsum accusantium quasi mollitia et eos. Ullam veniam quis ut adipisci est autem molestiae eos. Ab necessitatibus et rerum quasi quia debitis eum.;14,99;2017-12-30T14:55:22.913Z;spree-tote;20;Bags
-;;;;;;;
-;;;;;;;
-;;;;;;;
-;;;;;;;
-;;;;;;;
-;;;;;;;
-;;;;;;;
-;;;;;;;
-;;;;;;;
-;;;;;;;
-;;;;;;;
-;;;;;;;
-;;;;;;;
-;;;;;;;
-;;;;;;;
-;;;;;;;
-;;;;;;;
-;;;;;;;
+Name,Description,SKU,Price,Cost Price,Availability Date,Slug,Quantity,Category,Color,Size
+Ruby on Rails Bag –50,Hello Animi officia aut amet molestiae atque excepturi. Placeat est cum occaecati molestiae quia. Ut soluta ipsum doloremque perferendis eligendi voluptas voluptatum.,  ,1122,1000,2019-07-29T14:55:22.913Z,Ruby-on-rails-bag-50,,Bags,,
+,,SKU-00005001,1123,1000,,Ruby-on-rails-bag-50,100,,Red,Small
+,,SKU-00005002,1124,1000,,Ruby-on-rails-bag-50,100,,Green,Medium
+,,SKU-00005003,1125,1000,,Ruby-on-rails-bag-50,100,,Blue,Extra Large
+,,,,,,,,,,
+Ruby on Rails Bag –70,Hello Animi officia aut amet molestiae atque excepturi. Placeat est cum occaecati molestiae quia. Ut soluta ipsum doloremque perferendis eligendi voluptas voluptatum.,  ,1122,1000,2019-07-29T14:55:22.913Z,Ruby-on-rails-bag-70,,Bags Me2,,
+,,SKU-00007001,1123,1000,,Ruby-on-rails-bag-70,100,,Red,Small
+,,SKU-00007002,1124,1000,,Ruby-on-rails-bag-70,100,,Green,Medium
+,,SKU-00007003,1125,1000,,Ruby-on-rails-bag-70,100,,Blue,Extra Large
+,,,,,,,,,,
+Spree Bag – 50,Rerum quaerat autem non nihil quo laborum aut hic. Iure adipisci neque eum qui dolor. Velit sed molestias nostrum et dolore. Amet sed repellendus quod et ad.,,25,20,2017-12-04T14:55:22.913Z,Spree-bag-50,12,Bags,,
+,,,,,,,,,,
+Spree Tote – 80,Consequuntur quibusdam repellendus quia non. Iste et pariatur nulla fugit. In ipsum accusantium quasi mollitia et eos. Ullam veniam quis ut adipisci est autem molestiae eos. Ab necessitatibus et rerum quasi quia debitis eum.,,15,10,2017-12-30T14:55:22.913Z,Spree-tote-80,12,Bags,,
