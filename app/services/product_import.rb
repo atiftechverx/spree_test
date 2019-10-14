@@ -5,7 +5,6 @@ class ProductImport
     spreadsheet = Roo::CSV.new(file_path)
     spreadsheet.default_sheet = spreadsheet.sheets.first
     header = spreadsheet.row(1)
-    byebug
     (2..spreadsheet.last_row).each do |i|
       row = Hash[[header, spreadsheet.row(i)].transpose]
       # Don't import row where the Slug is blank
