@@ -112,7 +112,7 @@ GEM
       factory_bot (~> 4.11.1)
       railties (>= 3.0.0)
     ffaker (2.13.0)
-    ffi (1.9.18)
+    ffi (1.11.2)
     friendly_id (5.2.5)
       activerecord (>= 4.0.0)
     globalid (0.4.2)
